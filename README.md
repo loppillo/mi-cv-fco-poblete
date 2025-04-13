@@ -11,5 +11,6 @@ https://loppillo.github.io/mi-cv-fco-poblete/index.html
     url del fork en si github: https://github.com/loppillo/Desafio_latam_prueba_modulo1
 ## Reslpado de Commits
 
+![yonacamposs86/PortafolioCV](image-1.png)
 
-
+![alfonso mujica](image-2.png)
